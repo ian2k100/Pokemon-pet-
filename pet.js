@@ -81,3 +81,5 @@ console.log(bulbasaur1.happiness)
 console.log(charmander1.hunger)
 console.log(squirtle1.thirst)
 console.log(charmander1.total)
+
+//testing github 
